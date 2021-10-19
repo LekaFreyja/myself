@@ -5,7 +5,7 @@
 }
 
 body {
-  background: radial-gradient(#3f2812, #121212) no-repeat;
+  background: radial-gradient(at right, #3f2812, #121212) no-repeat;
 }
 
 #testimonials-list .item {
